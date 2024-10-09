@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1728456574 source:/home/default1/Documentos/CursoC++/CursoC++P19/sotestando/main.cpp
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
